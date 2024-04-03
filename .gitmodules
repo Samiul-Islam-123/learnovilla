@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = ./client
+[submodule "learnovilla-server"]
+	path = learnovilla-server
+	url = https://github.com/Samiul-Islam-123/learnovilla-server.git
